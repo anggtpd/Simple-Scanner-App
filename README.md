@@ -10,7 +10,6 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 ✅ Fully functional offline – no internet required 
 ✅ Clean and simple UI with **Google Fonts** (`google_fonts`)  
  
-
 ---
 
 ## ⚠️ Limitations  
@@ -19,7 +18,6 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 
 ---
 
-## 🖥️ Screenshots  
 ## 🖥️ Screenshots  
 | Home Page | Scanning Page | Preview Page | Save Document Page | Category Page | Detail Page |  
 |-----------|---------------|--------------|--------------------|---------------|-------------|
