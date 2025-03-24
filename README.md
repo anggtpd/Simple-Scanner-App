@@ -4,11 +4,12 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 ---
 
 ## 🚀 Features  
-✅ Scan documents using the device camera  
-✅ View scanned document details  
-✅ Edit document names  
-✅ Delete documents  
-✅ Store and retrieve documents locally  
+✅ Scan documents using **Google ML Kit** (`google_mlkit_document_scanner`)  
+✅ Store and organize documents locally with **SQLite** (`sqflite`)  
+✅ View, edit, and delete scanned documents in real-time using `setState()`  
+✅ Fully functional offline – no internet required 
+✅ Clean and simple UI with **Google Fonts** (`google_fonts`)  
+ 
 
 ---
 
@@ -21,12 +22,12 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 ## 🖥️ Screenshots  
 | Home Page | Scanning Page | Preview Page | Save Document Page | Category Page | Detail Page |  
 |-----------|---------------|--------------|--------------------|---------------|-------------|
-| <img src="screenshots/home_page.jpeg" width="300"> <img src="screenshots/home_page(2).jpeg" width="300"> 
-| <img src="screenshots/scanning_document.jpeg" width="300">
-| <img src="screenshots/preview_document.jpeg" width="300">
-| <img src="screenshots/save_document_page.jpeg" width="300">
-| <img src="screenshots/empty_category.jpeg" width="300"> <img src="screenshots/card_category.jpeg" width="300">
-| <img src="screenshots/detail_page.jpeg" width="300"> <img src="screenshots/edit_document_dialog.jpeg" width="300">|  
+| <img src="screenshots/home_page.jpeg" width="80"> <br> <img src="screenshots/home_page(2).jpeg" width="80"> 
+| <img src="screenshots/scanning_document.jpeg" width="80">
+| <img src="screenshots/preview_document.jpeg" width="80">
+| <img src="screenshots/save_document_page.jpeg" width="80">
+| <img src="screenshots/empty_category.jpeg" width="80"> <br> <img src="screenshots/card_category.jpeg" width="80">
+| <img src="screenshots/detail_page.jpeg" width="80"> <br> <img src="screenshots/edit_document_dialog.jpeg" width="80">|  
 
 ---
 

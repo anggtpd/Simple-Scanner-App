@@ -97,6 +97,7 @@ class _LatestDocumentsPageState extends State<LatestDocumentsPage> {
                         if (index != -1) {
                           documents[index] = updatedDocument;
                         }
+                        loadData();
                       });
                     }
                   });
