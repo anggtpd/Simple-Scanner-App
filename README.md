@@ -20,14 +20,11 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 ---
 
 ## 🖥️ Screenshots  
+## 🖥️ Screenshots  
 | Home Page | Scanning Page | Preview Page | Save Document Page | Category Page | Detail Page |  
 |-----------|---------------|--------------|--------------------|---------------|-------------|
-| <img src="screenshots/home_page.jpeg" width="80"> <br> <img src="screenshots/home_page(2).jpeg" width="80"> 
-| <img src="screenshots/scanning_document.jpeg" width="80">
-| <img src="screenshots/preview_document.jpeg" width="80">
-| <img src="screenshots/save_document_page.jpeg" width="80">
-| <img src="screenshots/empty_category.jpeg" width="80"> <br> <img src="screenshots/card_category.jpeg" width="80">
-| <img src="screenshots/detail_page.jpeg" width="80"> <br> <img src="screenshots/edit_document_dialog.jpeg" width="80">|  
+| <div align="center"><img src="screenshots/home_page.jpeg" width="150"><br><img src="screenshots/home_page(2).jpeg" width="150"></div> | <div align="center"><img src="screenshots/scanning_document.jpeg" width="150"></div> | <div align="center"><img src="screenshots/preview_document.jpeg" width="150"></div> | <div align="center"><img src="screenshots/save_document_page.jpeg" width="150"></div> | <div align="center"><img src="screenshots/empty_category.jpeg" width="150"><br><img src="screenshots/card_category.jpeg" width="150"></div> | <div align="center"><img src="screenshots/detail_page.jpeg" width="150"><br><img src="screenshots/edit_document_dialog.jpeg" width="150"></div> |
+
 
 ---
 
