@@ -4,10 +4,10 @@ A Flutter-based document scanner app built with ❤️ using Flutter and Dart.
 ---
 
 ## 🚀 Features  
-✅ Scan documents using **Google ML Kit** (`google_mlkit_document_scanner`)<br>  
-✅ Store and organize documents locally with **SQLite** (`sqflite`)<br>  
-✅ View, edit, and delete scanned documents in real-time using `setState()`<br>  
-✅ Fully functional offline – no internet required<br> 
+✅ Scan documents using **Google ML Kit** (`google_mlkit_document_scanner`) 
+✅ Store and organize documents locally with **SQLite** (`sqflite`)
+✅ View, edit, and delete scanned documents in real-time using `setState()`
+✅ Fully functional offline – no internet required<br>
 ✅ Clean and simple UI with **Google Fonts** (`google_fonts`)  
  
 ---
